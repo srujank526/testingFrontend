@@ -1,7 +1,5 @@
 <script>
-    async function callingAPI(){
-        
-    }
+    console.log("welcome to frontend")
 </script>
 
 <button on:click={callingAPI}>backend api</button>
